@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats%22%3E">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaioAcayabaFurtado&show_icons=true&theme=radical" />
-</a>
+
 <a href="https://github.com/anuraghazra/convoychat%22%3E">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioAcayabaFurtado&layout=compact&theme=radical" />
 </a>
