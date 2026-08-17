@@ -1,15 +1,16 @@
-<!--
-**CaioAcayabaFurtado/CaioAcayabaFurtado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer Jr. | Estudante de Sistemas de Informação  
+São Paulo, Brasil
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+## 🔎 Resumo
+Estudante de Sistemas de Informação e Engenheiro de Dados no Bradesco. Desde que iniciei minha jornada acadêmica, busco unir teoria e prática para resolver problemas reais com tecnologia. Hoje atuo como Data Engineer Jr. no time de Inteligência de Dados do Bradesco, contribuindo com análises e automações que apoiam decisões de negócio.
+
+---
+
+## ⭐ Projetos em destaque
+Se quiser, posso preencher esta seção automaticamente com links aos seus repositórios. Exemplos de como listar:
+- Sistema de Monitoramento de Servidores — [ServGuard](https://github.com/ServGuard-org)
+- Sistema de Agendamento para Salões de Beleza — [SalonTime](https://github.com/Grupo1-Semestre3)
+- Sistema de Retenção de Cliente para Fundos de Investimento - [Asset Sirius](https://github.com/Asset-Sirius)
 
